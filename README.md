@@ -14,49 +14,6 @@ In this assignment, you will demonstrate your ability to:
 
 -   Observe and document your personal debugging process
 
-## ✍️ Before You Begin
-
-Here are a few things to note before you begin writing your program:
-
-### 🐛 Debugging
-
-In the Reflection section of this assignment, you will be asked to reflect on your debugging process.
-
-**<ins>Take Notes About Your Debugging Process</ins>**
-
-As you work on C1, take notes about the error messages and bugs you encounter, as well as your debugging process. This means you should be noting the tools and strategies you use to understand the errors, debug, and fix your code.
-
-Here is what you should record in your notes:
-
--   Record at least one time when your program\'s behavior differed from what you wanted it to do.
-
-    -   What are the differences between the actual and desired behavior?
-
-    -   What is your process for figuring out the problem with your code?
-
-    -   What is the solution to this bug? That is, what do you need to fix about your code to make it have the desired behavior?
-
--   Record at least one time when your program didn\'t compile.
-
-    -   What compilation errors did you get?
-
-    -   What is your process for figuring out the problem with your code? Describe the resources or strategies you used in this process.
-
-    -   What is the solution to the bug? That is, what do you need to fix about your code to make it compile?
-
-You do not need to turn in all of your debugging notes, but you will need to answer questions about your debugging process in your Reflection.
-
-Create a README.md in your repository which includes your debugging notes
-
-**<ins>Debugging Resources</ins>**
-
-Here are some course resources on debugging that you\'ve seen already:
-
--   Several slides on debugging and interpreting error messages from Creative Project 0.
-
--   Debugging practice from Section 3.
-
-As you work on this assignment, look back at these resources as needed.
 
 ## Task 1 - Draw a Regular Shape
 
