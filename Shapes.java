@@ -1,7 +1,8 @@
 public class Shapes {
     public static void main(String[] args) {
         // Task 1: Draw a regular shape
-
+        
+        Turtle benson = new Turtle(50, 50);
 
         // Task 2: Draw a regular shape many times
 
