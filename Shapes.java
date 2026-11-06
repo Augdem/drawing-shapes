@@ -6,7 +6,7 @@ public class Shapes {
         
         for (int i = 1; i <= 5; i++) {
         benson.left(72);
-        benson.forward(10);
+        benson.forward(30);
         }
 
         // Task 2: Draw a regular shape many times
