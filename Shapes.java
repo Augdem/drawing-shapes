@@ -10,7 +10,7 @@ public class Shapes {
         benson.up();
         for (int i = 1; i <= 5; i++) {
         benson.left(3);
-        benson.forward(10);
+        benson.forward(15);
         }
         benson.down();
 
@@ -24,11 +24,11 @@ public class Shapes {
         benson.forward(30);
         }
         benson.left(36);
-        benson.forward(10);
+        benson.forward(30);
         }
         benson.up();
-        benson.left(90);
-        benson.forward(100);
+        benson.left(180);
+        benson.forward(200);
         benson.down();
 
         // Task 3: How many times does Turtle turn!
@@ -42,7 +42,7 @@ public class Shapes {
         }
         benson.left(36);
         totalTurns++;
-        benson.forward(10);
+        benson.forward(30);
         }
         System.out.println("Benson has turned " + totalTurns + " times!");
 
