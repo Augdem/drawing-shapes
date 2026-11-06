@@ -14,6 +14,7 @@ In this assignment, you will demonstrate your ability to:
 
 -   Observe and document your personal debugging process
 
+You can use UW's Turtle Graphics documentation to get started with using the Turtle API: [Turtle Grapics API](https://courses.cs.washington.edu/courses/cse121/24su/resources/cheatsheets/cheatsheet-01/)
 
 ## Task 1 - Draw a Regular Shape
 
@@ -78,8 +79,6 @@ For our third task, we want to count how many times our Turtle turned!
 > Before you get started, make sure to **<ins>move your Turtle to another part of the canvas</ins>** so your drawings do not overlap!
 
 If you are a registered with UWHS, you must complete at least two extensions to receive full credit.
-
-See the [Creative Project Rubric](https://courses.cs.washington.edu/courses/cse121/24wi/rubrics/#creative-project-rubric) for details.
 
 Instructions
 
