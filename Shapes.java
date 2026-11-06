@@ -10,7 +10,7 @@ public class Shapes {
         benson.up();
         for (int i = 1; i <= 5; i++) {
         benson.left(3);
-        benson.forward(15);
+        benson.forward(25);
         }
         benson.down();
 
@@ -24,7 +24,7 @@ public class Shapes {
         benson.forward(30);
         }
         benson.left(36);
-        benson.forward(30);
+        benson.forward(45);
         }
         benson.up();
         benson.left(180);
@@ -38,11 +38,10 @@ public class Shapes {
         benson.left(72);
         totalTurns++;
         benson.forward(30);
-        
         }
         benson.left(36);
         totalTurns++;
-        benson.forward(30);
+        benson.forward(45);
         }
         System.out.println("Benson has turned " + totalTurns + " times!");
 
