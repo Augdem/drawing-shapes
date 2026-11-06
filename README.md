@@ -19,7 +19,7 @@ In this assignment, you will demonstrate your ability to:
 
 Your first task for this assignment is to draw a **regular shape** (a shape that has the same edge length and angle size for all of its edges and angles)!
 
--   Write one for loop to draw a shape from the table below. **<ins>Do not choose a shape that is crossed off in the table as those were covered in previous exercises.</ins>**
+-   Write one for loop to draw a regular shape (triangle, square, pentagon, hexagon, etc...)
 
     -   Each iteration of the loop should draw one edge and vertex of the shape.
 
@@ -27,7 +27,7 @@ Your first task for this assignment is to draw a **regular shape** (a shape that
 
     -   We recommend you choose one of the shapes in the table below. If you choose to draw your own shape instead, it must be a regular shape.
 
-> ![A table with numbers and text Description automatically generated](./media/image1.png)
+> ![A table with numbers and text Description automatically generated](/image1.png)
 
 -   Write your code for this task in the `main` method of `Shapes.java` beneath the comment that says `// Task 1: Draw a regular shape`
 
