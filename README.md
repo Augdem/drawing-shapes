@@ -19,13 +19,13 @@ In this assignment, you will demonstrate your ability to:
 
 Your first task for this assignment is to draw a **regular shape** (a shape that has the same edge length and angle size for all of its edges and angles)!
 
--   Write one for loop to draw a regular shape (triangle, square, pentagon, hexagon, etc...)
+-   Write one for loop to draw a regular shape (list of available shapes below)
 
     -   Each iteration of the loop should draw one edge and vertex of the shape.
 
 -   Below is a table listing the angles that the `Turtle` would have to turn at each vertex to draw some common regular shapes.
 
-    -   We recommend you choose one of the shapes in the table below. If you choose to draw your own shape instead, it must be a regular shape.
+    -   Please choose one of the shapes in the table below. If you choose to draw your own shape instead, it must be a regular shape.
 
 > ![A table with numbers and text Description automatically generated](/image1.png)
 
@@ -77,7 +77,7 @@ For our third task, we want to count how many times our Turtle turned!
 
 > Before you get started, make sure to **<ins>move your Turtle to another part of the canvas</ins>** so your drawings do not overlap!
 
-You must complete at least two extensions to earn a grade of E on this project.
+If you are a registered with UWHS, you must complete at least two extensions to receive full credit.
 
 See the [Creative Project Rubric](https://courses.cs.washington.edu/courses/cse121/24wi/rubrics/#creative-project-rubric) for details.
 
