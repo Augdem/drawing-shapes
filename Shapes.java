@@ -18,7 +18,7 @@ public class Shapes {
         
 
         // Task 2: Draw a regular shape many times
-        for (int j = 1; j <=10; j++)
+        for (int j = 1; j <=5; j++)
         {
         for (int i = 1; i <= 5; i++) {
         benson.left(72);
@@ -26,17 +26,17 @@ public class Shapes {
         inc++;
         }
         benson.up();
-        benson.left(160);
+        benson.left(216);
         benson.forward(30);
         benson.down();
         }
         benson.up();
         benson.left(270);
-        benson.forward(100);
+        benson.forward(150);
         benson.down();
         inc = 0;
         // Task 3: How many times does Turtle turn!
-        for (int j = 1; j <=10; j++)
+        for (int j = 1; j <=5; j++)
         {
         for (int i = 1; i <= 5; i++) {
         benson.left(72);
@@ -45,7 +45,7 @@ public class Shapes {
         inc++;
         }
         benson.up();
-        benson.left(160);
+        benson.left(216);
         totalTurns++;
         benson.forward(30);
         benson.down();
