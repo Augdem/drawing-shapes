@@ -3,6 +3,7 @@ public class Shapes {
         // Task 1: Draw a regular shape
         Turtle benson = new Turtle(50, 50);
         int totalTurns = 0;
+        int inc = 0;
         for (int i = 1; i <= 5; i++) {
         benson.left(72);
         benson.forward(4);
@@ -22,15 +23,16 @@ public class Shapes {
         for (int i = 1; i <= 5; i++) {
         benson.left(72);
         benson.forward(30);
+        inc++;
         }
-        benson.left(36);
-        benson.forward(45);
+        benson.left(30 - inc);
+        benson.forward(20 + inc);
         }
         benson.up();
         benson.left(180);
         benson.forward(200);
         benson.down();
-
+        inc = 0;
         // Task 3: How many times does Turtle turn!
         for (int j = 1; j <=10; j++)
         {
@@ -38,10 +40,11 @@ public class Shapes {
         benson.left(72);
         totalTurns++;
         benson.forward(30);
+        inc++;
         }
-        benson.left(36);
+        benson.left(30 - inc);
         totalTurns++;
-        benson.forward(45);
+        benson.forward(20 + inc);
         }
         System.out.println("Benson has turned " + totalTurns + " times!");
 
