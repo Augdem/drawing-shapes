@@ -25,12 +25,14 @@ public class Shapes {
         benson.forward(30);
         inc++;
         }
-        benson.left(30 - inc);
-        benson.forward(20 + inc);
+        benson.up();
+        benson.left(160);
+        benson.forward(30);
+        benson.down();
         }
         benson.up();
-        benson.left(180);
-        benson.forward(200);
+        benson.left(270);
+        benson.forward(100);
         benson.down();
         inc = 0;
         // Task 3: How many times does Turtle turn!
@@ -42,9 +44,11 @@ public class Shapes {
         benson.forward(30);
         inc++;
         }
-        benson.left(30 - inc);
+        benson.up();
+        benson.left(160);
         totalTurns++;
-        benson.forward(20 + inc);
+        benson.forward(30);
+        benson.down();
         }
         System.out.println("Benson has turned " + totalTurns + " times!");
 
