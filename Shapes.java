@@ -26,7 +26,7 @@ public class Shapes {
         inc++;
         }
         benson.up();
-        benson.left(30 * (inc+ 1));
+        benson.left(30 * (inc + 1));
         benson.forward(20);
         benson.down();
         }
@@ -46,7 +46,7 @@ public class Shapes {
         inc++;
         }
         benson.up();
-        benson.left(30 * (inc+ 1));
+        benson.left(30 * (inc + 1));
         totalTurns++;
         benson.forward(20);
         benson.down();
